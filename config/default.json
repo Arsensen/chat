@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "MongoURI": "mongodb+srv://arest:araara31@cluster0.hcuxw.mongodb.net/chatterbox",
+    "jwtSecret": "chat-chat, I left a chat",
+    "baseURL": "http://localhost:5000"
+}
